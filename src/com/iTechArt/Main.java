@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello World");
         System.out.println(3+22);
         System.out.println("3"+22);
+        System.out.println("3"+2+2);
+        System.out.println("3"+(2+2));
     }
 }
